@@ -9,7 +9,7 @@ title: Kindle and Kin Privacy Policy
 
 # Kindle and Kin Privacy Policy
 
-**Effective date:** September 26, 2026
+**Effective date:** September 26, 2026 (updated September 26, 2026: optional quote download)
 
 Kindle and Kin ("the app") is made by K&K Digital ("we", "us"). This policy explains how the app handles your information. The short version: **it doesn't collect any.**
 
@@ -18,7 +18,7 @@ Kindle and Kin ("the app") is made by K&K Digital ("we", "us"). This policy expl
 Nothing. The app:
 
 - has **no account** or sign-up
-- makes **no internet connections**
+- makes **no internet connections**, except the optional quote download described below, which only happens when you tap it
 - contains **no analytics, advertising or tracking** tools
 - does **not** sell or share any data, because it never has any
 
@@ -32,6 +32,10 @@ Anything you add or change is saved **only on your device**, in the app's privat
 - your reminder settings
 
 We cannot see this data. Uninstalling the app deletes it. It may be included in your device's own backups (iCloud or Google), which Apple and Google handle under their own privacy policies.
+
+## Optional quote download
+
+In **Settings → Get New Quotes**, you can download the free Additional Set of quotes. Only then does the app connect to the internet, to fetch one file from GitHub Pages (`rufus-sam.github.io`). The app sends nothing about you with that request. Like any website, GitHub receives your device's IP address in order to deliver the file; see [GitHub's Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement). The downloaded quotes are stored on your device, work offline, and can be removed in Settings at any time.
 
 ## Notifications
 
