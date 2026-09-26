@@ -9,7 +9,7 @@ title: Kindle and Kin Privacy Policy
 
 # Kindle and Kin Privacy Policy
 
-**Effective date:** September 26, 2026 (updated September 26, 2026: optional quote download)
+**Effective date:** September 26, 2026
 
 Kindle and Kin ("the app") is made by K&K Digital ("we", "us"). This policy explains how the app handles your information. The short version: **it doesn't collect any.**
 
