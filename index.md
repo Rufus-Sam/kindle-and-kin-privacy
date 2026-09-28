@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Kindle and Kin — Privacy Policy
+title: Phos & Kin — Privacy Policy
 ---
 
 ---
-title: Kindle and Kin Privacy Policy
+title: Phos & Kin Privacy Policy
 ---
 
-# Kindle and Kin Privacy Policy
+# Phos & Kin Privacy Policy
 
 **Effective date:** September 26, 2026
 
-Kindle and Kin ("the app") is made by K&K Digital ("we", "us"). This policy explains how the app handles your information. The short version: **it doesn't collect any.**
+Phos & Kin ("the app") is made by Sustain Digital ("we", "us"). This policy explains how the app handles your information. The short version: **it doesn't collect any.**
 
 ## What the app collects
 
